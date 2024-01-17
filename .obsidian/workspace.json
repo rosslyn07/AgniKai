@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cc682a6c264e51d",
+            "id": "e45c9265cfe485a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/what the hell are large language models.md",
+                "file": "my setup/the setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e45c9265cfe485a3",
+            "id": "4cf03b67cdd93fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "my setup/how did i setup my note sync through git hub.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "my setup/how did i setup my note sync through git hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "my setup/how did i setup my note sync through git hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chotu workstation/will surely type something here.md"
+                "file": "my setup/how did i setup my note sync through git hub.md"
               }
             }
           }
@@ -160,12 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25310d45b64b5e93",
+  "active": "4cf03b67cdd93fe3",
   "lastOpenFiles": [
-    "knowledge/what the hell are large language models.md",
-    "chotu workstation/will surely type something here.md",
-    "chotu workstation",
+    "my setup/how did i setup my note sync through git hub.md",
     "my setup/the setup.md",
+    "chotu workstation/will surely type something here.md",
+    "knowledge/what the hell are large language models.md",
+    "knowledge/knowledge checklist.md",
+    "chotu workstation",
     "my setup"
   ]
 }
