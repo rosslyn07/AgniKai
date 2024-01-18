@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "knowledge/what the hell are large language models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "chotu workstation/will surely type something here.md",
+            "file": "knowledge/what the hell are large language models.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "chotu workstation/will surely type something here.md",
+            "file": "knowledge/what the hell are large language models.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "chotu workstation/will surely type something here.md"
+            "file": "knowledge/what the hell are large language models.md"
           }
         }
       }
@@ -132,9 +132,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58a1b39243b07ab7",
+  "active": "1376156eab166017",
   "lastOpenFiles": [
     "my setup/how did i setup my note sync through git hub.md",
-    "chotu workstation/will surely type something here.md"
+    "my setup/the setup.md",
+    "javascript/will surely type something here.md",
+    "fucking checklists/college checklist.md",
+    "fucking checklists/programming checklist.md",
+    "fucking checklists/general checklist.md",
+    "excalidraw/agni kai.md",
+    "chotu workstation/will surely type something here.md",
+    "dumpyard/llm_1.png",
+    "c++ with data structures/will surely type something here.md",
+    "daily logs/sever logs called life.md"
   ]
 }
