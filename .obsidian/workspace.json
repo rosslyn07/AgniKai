@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "029dae4f0c6e0729",
+        "id": "a1195d94759b3dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e45c9265cfe485a3",
+            "id": "9a89efe7fdf3901d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my setup/the setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cf03b67cdd93fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "fucking checklists/college checklist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "fucking checklists/college checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "fucking checklists/college checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chotu workstation/will surely type something here.md"
+                "file": "fucking checklists/college checklist.md"
               }
             }
           }
@@ -160,12 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cf03b67cdd93fe3",
+  "active": "9a89efe7fdf3901d",
   "lastOpenFiles": [
-    "my setup/how did i setup my note sync through git hub.md",
-    "my setup/the setup.md",
     "chotu workstation/will surely type something here.md",
     "knowledge/what the hell are large language models.md",
+    "excalidraw/agni kai.md",
+    "dumpyard/llm_1.png",
+    "daily logs/sever logs called life.md",
+    "c++ with data structures/will surely type something here.md",
+    "my setup/how did i setup my note sync through git hub.md",
+    "my setup/the setup.md",
     "knowledge/knowledge checklist.md",
     "chotu workstation",
     "my setup"

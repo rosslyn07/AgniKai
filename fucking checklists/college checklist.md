@@ -1,4 +1,13 @@
-sol [14/01/2024]
-- [ ] complete ai/ml assignment 
-- [ ] complete dbms assignment 
-- [ ] complete any one journal > cn maybe 
+sol [ no date]
+- [x] complete ai/ml 1 assignment
+- [ ] complete dbms  1 assignment 
+- [ ] complete dbms journal 
+- [ ] complete dbms observation book 
+- [ ] complete cn journal
+- [ ] complete cn observation book
+- [x] complete atc 1 assignment 
+- [ ] prepare a image viewer project for c# and a powerpoint for the same 
+- [ ] prepare dbms project [ toy store ] before 2nd Ia
+- [ ] find out a project name for ai/ml project and submit it on monday 
+- [ ] complete c# observation book [ 8 programs ]
+- [ ] complete c# journal [ 8 programs ]
