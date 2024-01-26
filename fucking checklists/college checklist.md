@@ -1,5 +1,6 @@
 sol [ no date]
 - [x] complete ai/ml 1 assignment
+- [x] complete rm 1 assignment 
 - [ ] complete dbms  1 assignment 
 - [ ] complete dbms journal 
 - [ ] complete dbms observation book 
@@ -7,7 +8,7 @@ sol [ no date]
 - [ ] complete cn observation book
 - [x] complete atc 1 assignment 
 - [ ] prepare a image viewer project for c# and a powerpoint for the same 
-- [ ] prepare dbms project [ toy store ] before 2nd Ia
+- [ ] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
 - [ ] find out a project name for ai/ml project and submit it on monday 
 - [ ] complete c# observation book [ 8 programs ]
 - [ ] complete c# journal [ 8 programs ]

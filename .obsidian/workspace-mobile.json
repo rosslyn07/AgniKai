@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/what the hell are large language models.md",
+                "file": "fucking checklists/college checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge/what the hell are large language models.md",
+            "file": "fucking checklists/college checklist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge/what the hell are large language models.md",
+            "file": "fucking checklists/college checklist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge/what the hell are large language models.md"
+            "file": "fucking checklists/college checklist.md"
           }
         }
       }
@@ -132,8 +132,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1376156eab166017",
+  "active": "58a1b39243b07ab7",
   "lastOpenFiles": [
+    "knowledge/what the hell are large language models.md",
     "my setup/how did i setup my note sync through git hub.md",
     "my setup/the setup.md",
     "javascript/will surely type something here.md",
