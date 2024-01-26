@@ -11,3 +11,5 @@ sol [ no date]
 - [ ] find out a project name for ai/ml project and submit it on monday 
 - [ ] complete c# observation book [ 8 programs ]
 - [ ] complete c# journal [ 8 programs ]
+- [ ] complete dbms 2 assignment 
+- [ ] complete atc 2 assignment 
