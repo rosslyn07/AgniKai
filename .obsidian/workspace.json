@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fucking checklists/agni kai checklist.md",
+                "file": "chotu workstation/will surely type something here.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fucking checklists/agni kai checklist.md",
+                "file": "chotu workstation/will surely type something here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fucking checklists/agni kai checklist.md",
+                "file": "chotu workstation/will surely type something here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fucking checklists/agni kai checklist.md"
+                "file": "chotu workstation/will surely type something here.md"
               }
             }
           }
@@ -160,14 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25310d45b64b5e93",
+  "active": "661ac135209e4ae2",
   "lastOpenFiles": [
+    "dumpyard/llm_1.png",
+    "excalidraw/agni kai.md",
     "fucking checklists/college checklist.md",
     "fucking checklists/agni kai checklist.md",
     "chotu workstation/will surely type something here.md",
     "knowledge/what the hell are large language models.md",
-    "excalidraw/agni kai.md",
-    "dumpyard/llm_1.png",
     "daily logs/sever logs called life.md",
     "c++ with data structures/will surely type something here.md",
     "my setup/how did i setup my note sync through git hub.md",
