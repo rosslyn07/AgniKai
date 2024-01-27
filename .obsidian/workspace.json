@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "fucking checklists/college checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661ac135209e4ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+>>>>>>> ce5b768efc968c5e28584068829509ea5222fde1
                 "file": "chotu workstation/will surely type something here.md",
                 "mode": "source",
                 "source": false
@@ -147,14 +162,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "9a89efe7fdf3901d",
+=======
+  "active": "661ac135209e4ae2",
+>>>>>>> ce5b768efc968c5e28584068829509ea5222fde1
   "lastOpenFiles": [
+    "dumpyard/llm_1.png",
+    "excalidraw/agni kai.md",
     "fucking checklists/college checklist.md",
     "fucking checklists/agni kai checklist.md",
     "chotu workstation/will surely type something here.md",
     "knowledge/what the hell are large language models.md",
-    "excalidraw/agni kai.md",
-    "dumpyard/llm_1.png",
     "daily logs/sever logs called life.md",
     "c++ with data structures/will surely type something here.md",
     "my setup/how did i setup my note sync through git hub.md",
