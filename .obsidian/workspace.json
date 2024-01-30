@@ -1,20 +1,18 @@
 {
   "main": {
-    "id": "eaab05ad3e6ad8a9",
+    "id": "0136e0be278d8a5c",
     "type": "split",
     "children": [
       {
-        "id": "a1195d94759b3dcc",
+        "id": "824cb3282d2659ae",
         "type": "tabs",
         "children": [
           {
-            "id": "9a89efe7fdf3901d",
+            "id": "5b2c95903377281f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "fucking checklists/college checklist.md",
                 "mode": "source",
                 "source": false
@@ -22,33 +20,33 @@
             }
           },
           {
-            "id": "661ac135209e4ae2",
+            "id": "23aac85f3890141b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
->>>>>>> ce5b768efc968c5e28584068829509ea5222fde1
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "a dumpyard/a place where i dump my gpu programming links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "54127ca605b84a73",
+    "id": "58e216f4628f779b",
     "type": "split",
     "children": [
       {
-        "id": "88ca27ac219c9221",
+        "id": "fd26c2295e0f46f3",
         "type": "tabs",
         "children": [
           {
-            "id": "25310d45b64b5e93",
+            "id": "1d798c3588740a0f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "19ee49419985002f",
+            "id": "d8ed1e42a9449755",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "0dec8f4a6a3d4a00",
+            "id": "d7930c606d38e7a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "7259ae383bd90847",
+    "id": "098c092cfd52317b",
     "type": "split",
     "children": [
       {
-        "id": "537ee998376a334b",
+        "id": "f36ddaf94dfba0ef",
         "type": "tabs",
         "children": [
           {
-            "id": "0ebc29ca67dc76bc",
+            "id": "2e72c4d78b6a1827",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "a dumpyard/a place where i dump my gpu programming links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +110,19 @@
             }
           },
           {
-            "id": "c2a415f26d71801a",
+            "id": "c752fa4b37e4213f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chotu workstation/will surely type something here.md",
+                "file": "a dumpyard/a place where i dump my gpu programming links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cf8c7d2edd3fc73c",
+            "id": "91bc9b0eca971c83",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,12 +133,12 @@
             }
           },
           {
-            "id": "59de90257f30820f",
+            "id": "fe45927d031c366e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "chotu workstation/will surely type something here.md"
+                "file": "a dumpyard/a place where i dump my gpu programming links.md"
               }
             }
           }
@@ -162,24 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "9a89efe7fdf3901d",
-=======
-  "active": "661ac135209e4ae2",
->>>>>>> ce5b768efc968c5e28584068829509ea5222fde1
+  "active": "1d798c3588740a0f",
   "lastOpenFiles": [
-    "dumpyard/llm_1.png",
-    "excalidraw/agni kai.md",
     "fucking checklists/college checklist.md",
-    "fucking checklists/agni kai checklist.md",
-    "chotu workstation/will surely type something here.md",
-    "knowledge/what the hell are large language models.md",
-    "daily logs/sever logs called life.md",
-    "c++ with data structures/will surely type something here.md",
-    "my setup/how did i setup my note sync through git hub.md",
-    "my setup/the setup.md",
-    "knowledge/knowledge checklist.md",
-    "chotu workstation",
-    "my setup"
+    "a dumpyard/a place where i dump my gpu programming links.md",
+    "a dumpyard",
+    "chotu workstation/will surely type something here.md"
   ]
 }

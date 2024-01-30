@@ -1,7 +1,7 @@
 sol [ no date]
 - [x] complete ai/ml 1 assignment
 - [x] complete rm 1 assignment 
-- [ ] complete dbms  1 assignment 
+- [x] complete dbms  1 assignment 
 - [ ] complete dbms journal 
 - [ ] complete dbms observation book 
 - [ ] complete cn journal
@@ -12,5 +12,5 @@ sol [ no date]
 - [ ] find out a project name for ai/ml project and submit it on monday 
 - [ ] complete c# observation book [ 8 programs ]
 - [ ] complete c# journal [ 8 programs ]
-- [ ] complete dbms 2 assignment 
+- [x] complete dbms 2 assignment 
 - [ ] complete atc 2 assignment 
