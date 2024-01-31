@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c775ed9e9817bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a dumpyard/a place where i dump my gpu programming links.md",
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a dumpyard/a place where i dump my gpu programming links.md",
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a dumpyard/a place where i dump my gpu programming links.md"
+                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md"
               }
             }
           }
@@ -162,8 +174,9 @@
   },
   "active": "1d798c3588740a0f",
   "lastOpenFiles": [
-    "fucking checklists/college checklist.md",
     "a dumpyard/a place where i dump my gpu programming links.md",
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "fucking checklists/college checklist.md",
     "a dumpyard",
     "chotu workstation/will surely type something here.md"
   ]
