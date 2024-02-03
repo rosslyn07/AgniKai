@@ -7,7 +7,7 @@ sol [ no date]
 - [ ] complete cn journal
 - [ ] complete cn observation book
 - [x] complete atc 1 assignment 
-- [ ] prepare a image viewer project for c# and a powerpoint for the same 
+- [ ] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
 - [ ] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
 - [ ] find out a project name for ai/ml project and submit it on monday 
 - [ ] complete c# observation book [ 8 programs ]
