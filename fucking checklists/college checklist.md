@@ -14,3 +14,4 @@ sol [ no date]
 - [ ] complete c# journal [ 8 programs ]
 - [x] complete dbms 2 assignment 
 - [ ] complete atc 2 assignment 
+- [ ] complete rm 2 assignment 

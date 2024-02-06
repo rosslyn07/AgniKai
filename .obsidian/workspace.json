@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md"
+                "file": "fucking checklists/college checklist.md"
               }
             }
           }
@@ -172,11 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d798c3588740a0f",
+  "active": "0c775ed9e9817bfc",
   "lastOpenFiles": [
+    "fucking checklists/general checklist.md",
+    "fucking checklists/agni kai checklist.md",
+    "fucking checklists/college checklist.md",
     "a dumpyard/a place where i dump my gpu programming links.md",
     "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "fucking checklists/college checklist.md",
     "a dumpyard",
     "chotu workstation/will surely type something here.md"
   ]
