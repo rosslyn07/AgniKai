@@ -1,14 +1,18 @@
 {
   "main": {
-    "id": "0136e0be278d8a5c",
+    "id": "a2c2a61a1844e29d",
     "type": "split",
     "children": [
       {
-        "id": "824cb3282d2659ae",
+        "id": "4a8a4a555f42d9ca",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "5b2c95903377281f",
+=======
+            "id": "c8a1a79279ca8fd9",
+>>>>>>> b7d3a67 (dont know what changes are beign are commited)
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58e216f4628f779b",
+    "id": "3245c4904558be67",
     "type": "split",
     "children": [
       {
-        "id": "fd26c2295e0f46f3",
+        "id": "dbe6b60b0b5f7f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d798c3588740a0f",
+            "id": "097c4ebc4e76959e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "d8ed1e42a9449755",
+            "id": "066aa25cd1e733b2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +62,7 @@
             }
           },
           {
-            "id": "d7930c606d38e7a6",
+            "id": "92e8d60b82a1f794",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "098c092cfd52317b",
+    "id": "af809207047c371d",
     "type": "split",
     "children": [
       {
-        "id": "f36ddaf94dfba0ef",
+        "id": "69125abdecb48386",
         "type": "tabs",
         "children": [
           {
-            "id": "2e72c4d78b6a1827",
+            "id": "b971d047a240eacb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +101,7 @@
             }
           },
           {
-            "id": "c752fa4b37e4213f",
+            "id": "e3a7f73ac80dafdf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +113,7 @@
             }
           },
           {
-            "id": "91bc9b0eca971c83",
+            "id": "e65bbf18234bae57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +124,7 @@
             }
           },
           {
-            "id": "fe45927d031c366e",
+            "id": "1f5fe548b020f342",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -144,10 +148,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "terminal:Open terminal": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "5b2c95903377281f",
   "lastOpenFiles": [
     "a dumpyard/a place where i dump my gpu programming links.md",
@@ -157,7 +161,20 @@
     "Excalidraw/Drawing 2024-02-06 13.19.36.excalidraw.md",
     "fucking checklists/general checklist.md",
     "fucking checklists/agni kai checklist.md",
+=======
+  "active": "c8a1a79279ca8fd9",
+  "lastOpenFiles": [
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
+>>>>>>> b7d3a67 (dont know what changes are beign are commited)
     "a dumpyard",
-    "chotu workstation/will surely type something here.md"
+    "fucking checklists/agni kai checklist.md",
+    "chotu workstation/will surely type something here.md",
+    "c++ with data structures/will surely type something here.md",
+    "knowledge/what the hell are large language models.md",
+    "knowledge/knowledge checklist.md",
+    "fucking checklists/programming checklist.md",
+    "fucking checklists/general checklist.md",
+    "fucking checklists/college checklist.md"
   ]
 }
