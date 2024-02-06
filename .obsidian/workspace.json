@@ -169,14 +169,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "0c775ed9e9817bfc",
   "lastOpenFiles": [
+    "fucking checklists/college checklist.md",
+    "excalidraw/Drawing 2024-02-06 13.19.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-06 13.19.36.excalidraw.md",
     "fucking checklists/general checklist.md",
     "fucking checklists/agni kai checklist.md",
-    "fucking checklists/college checklist.md",
     "a dumpyard/a place where i dump my gpu programming links.md",
     "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
     "a dumpyard",
