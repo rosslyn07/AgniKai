@@ -1,4 +1,4 @@
-sol [ no date]
+sol [ 5th sem ]
 - [x] complete ai/ml 1 assignment
 - [x] complete rm 1 assignment 
 - [x] complete dbms  1 assignment 
@@ -17,9 +17,10 @@ sol [ no date]
 - [ ] complete rm 2 assignment 
 - [ ] complete dbms 3 assignment 
 - [ ] complete vtu online course before 3rd ia 
-- [ ] complete cn ia on monday 
+- [ ] write cn 1st ia 
+- [ ] complete cn lab ia on monday 
 - [ ] show dbms project, project report, project ppt and journal on tuesday
 - [ ] complete c# lab ia on wednesday
 - [ ] prepare c# project and project ppt by friday 
-- [ ] prepare for ai seminar
+- [ ] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
 - [ ] prepare for atc seminar 
