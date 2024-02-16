@@ -15,3 +15,11 @@ sol [ no date]
 - [x] complete dbms 2 assignment 
 - [x] complete atc 2 assignment 
 - [ ] complete rm 2 assignment 
+- [ ] complete dbms 3 assignment 
+- [ ] complete vtu online course before 3rd ia 
+- [ ] complete cn ia on monday 
+- [ ] show dbms project, project report, project ppt and journal on tuesday
+- [ ] complete c# lab ia on wednesday
+- [ ] prepare c# project and project ppt by friday 
+- [ ] prepare for ai seminar
+- [ ] prepare for atc seminar 
