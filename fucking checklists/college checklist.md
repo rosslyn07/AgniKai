@@ -19,7 +19,7 @@ sol [ 5th sem ]
 - [ ] complete vtu online course before 3rd ia 
 - [ ] write cn 1st ia 
 - [ ] complete cn lab ia on monday 
-- [ ] show dbms project, project report, project ppt and journal on tuesday
+- [ ] show dbms project, project report, project ppt and journal  on tuesday
 - [ ] complete c# lab ia on wednesday
 - [ ] prepare c# project and project ppt by friday 
 - [ ] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
