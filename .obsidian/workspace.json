@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seminars i have done in college/computer networks seminar.md",
+                "file": "awesome things i have done in college/large language models presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seminars i have done in college/computer networks seminar.md",
+                "file": "awesome things i have done in college/large language models presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seminars i have done in college/computer networks seminar.md",
+                "file": "awesome things i have done in college/large language models presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seminars i have done in college/computer networks seminar.md"
+                "file": "awesome things i have done in college/large language models presentation.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b67721f3959746e6",
+  "active": "f26897e53b4eef43",
   "lastOpenFiles": [
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
+    "awesome things i have done in college/large language models presentation.md",
+    "seminars i have done in college/computer networks seminar.md",
     "my setup/the setup.md",
     "my setup/how did i setup my note sync through git hub.md",
     "knowledge/what the hell are large language models.md",
     "fucking checklists/college checklist.md",
-    "awesome things i have done in college/large language models presentation.md",
     "c++ with data structures/will surely type something here.md",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
-    "seminars i have done in college/computer networks seminar.md",
     "seminars i have done in college",
     "fucking checklists/general checklist.md",
     "awesome things i have done in college"
