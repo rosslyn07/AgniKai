@@ -6,8 +6,6 @@
 # Softwares For MacOs To Try When It Comes To Windows
 ->Warp The Terminal
 ->Zed Ide
--> Arc Browser
-->Ollama
 # Softwares To Try On Windows
 ->Intel Unison
 ->Bitwarden
@@ -20,6 +18,7 @@
 # Softwares To Try On Mac
 ->Pile Journal App
 ->Noteplan
+->Net News Wire
 # Software To Learn In Near Future
 -> Emacs
 ->Vim & Vim Gui
