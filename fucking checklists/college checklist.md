@@ -2,25 +2,25 @@ sol [ 5th sem ]
 - [x] complete ai/ml 1 assignment
 - [x] complete rm 1 assignment 
 - [x] complete dbms  1 assignment 
-- [ ] complete dbms journal 
-- [ ] complete dbms observation book 
+- [x] complete dbms journal 
+- [x] complete dbms observation book 
 - [ ] complete cn journal
 - [ ] complete cn observation book
 - [x] complete atc 1 assignment 
-- [ ] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
+- [x] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
 - [ ] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
 - [ ] find out a project name for ai/ml project and submit it on monday 
-- [ ] complete c# observation book [ 8 programs ]
-- [ ] complete c# journal [ 8 programs ]
+- [x] complete c# observation book [ 8 programs ]
+- [x] complete c# journal [ 8 programs ]
 - [x] complete dbms 2 assignment 
 - [x] complete atc 2 assignment 
-- [ ] complete rm 2 assignment 
-- [ ] complete dbms 3 assignment 
+- [x] complete rm 2 assignment 
+- [x] complete dbms 3 assignment 
 - [ ] complete vtu online course before 3rd ia 
 - [ ] write cn 1st ia 
-- [ ] complete cn lab ia on monday 
+- [x] complete cn lab ia on monday 
 - [ ] show dbms project, project report, project ppt and journal  on tuesday
-- [ ] complete c# lab ia on wednesday
-- [ ] prepare c# project and project ppt by friday 
+- [x] complete c# lab ia on wednesday
+- [x] prepare c# project and project ppt by friday 
 - [ ] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
 - [ ] prepare for atc seminar 
