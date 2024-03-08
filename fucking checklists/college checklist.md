@@ -5,11 +5,11 @@ sol [ 5th sem ]
 - [x] complete dbms journal 
 - [x] complete dbms observation book 
 - [ ] complete cn journal
-- [ ] complete cn observation book
+- [x] complete cn observation book
 - [x] complete atc 1 assignment 
 - [x] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
-- [ ] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
-- [ ] find out a project name for ai/ml project and submit it on monday 
+- [x] prepare dbms project a ppt and a report for it  [ toy store ] before 2nd Ia
+- [x] find out a project name for ai/ml project and submit it on monday 
 - [x] complete c# observation book [ 8 programs ]
 - [x] complete c# journal [ 8 programs ]
 - [x] complete dbms 2 assignment 
