@@ -11,8 +11,12 @@
             "id": "25894b40537df925",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "xeetshot/log 01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "xeetshot/log 01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "xeetshot/log 01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "xeetshot/log 01.md"
+          }
         }
       }
     ],
@@ -125,8 +133,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25894b40537df925",
+  "active": "1376156eab166017",
   "lastOpenFiles": [
+    "dumpyard/xeelog1.jpg",
+    "xeetshot/log 01.md",
+    "xeetshot",
+    "dumpyard/llm_1.png",
     "fucking checklists/college checklist.md",
     "fucking checklists/agni kai checklist.md",
     "things i have done in college/large language models presentation.md",
@@ -141,7 +153,6 @@
     "fucking checklists/programming checklist.md",
     "fucking checklists/general checklist.md",
     "excalidraw/agni kai.md",
-    "dumpyard/llm_1.png",
     "daily logs/sever logs called life.md"
   ]
 }
