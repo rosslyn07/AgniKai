@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fucking checklists/college checklist.md",
+                "file": "xeetshot/log 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fucking checklists/college checklist.md",
+                "file": "xeetshot/log 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fucking checklists/college checklist.md",
+                "file": "xeetshot/log 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fucking checklists/college checklist.md"
+                "file": "xeetshot/log 01.md"
               }
             }
           }
@@ -150,21 +150,28 @@
   },
   "active": "f26897e53b4eef43",
   "lastOpenFiles": [
-    "fucking checklists/agni kai checklist.md",
-    "chotu workstation/will surely type something here.md",
-    "c++ with data structures/will surely type something here.md",
-    "awesome things i have done in college/large language models presentation.md",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
-    "knowledge/knowledge checklist.md",
-    "dumpyard/llm_1.png",
-    "seminars i have done in college/computer networks seminar.md",
     "my setup/the setup.md",
     "my setup/how did i setup my note sync through git hub.md",
     "knowledge/what the hell are large language models.md",
-    "fucking checklists/college checklist.md",
-    "seminars i have done in college",
+    "knowledge/knowledge checklist.md",
+    "javascript/will surely type something here.md",
+    "fucking checklists/programming checklist.md",
     "fucking checklists/general checklist.md",
+    "fucking checklists/college checklist.md",
+    "fucking checklists/agni kai checklist.md",
+    "excalidraw/agni kai.md",
+    "dumpyard/xeelog1.jpg",
+    "dumpyard/llm_1.png",
+    "daily logs/sever logs called life.md",
+    "chotu workstation/will surely type something here.md",
+    "c++ with data structures/will surely type something here.md",
+    "awesome things i have done in college/large language models presentation.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "xeetshot/log 01.md",
+    "xeetshot",
+    "seminars i have done in college/computer networks seminar.md",
+    "seminars i have done in college",
     "awesome things i have done in college"
   ]
 }
