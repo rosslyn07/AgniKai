@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+                "file": "fucking checklists/college checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md"
+                "file": "fucking checklists/college checklist.md"
               }
             }
           }
@@ -164,22 +164,30 @@
   },
   "active": "f26897e53b4eef43",
   "lastOpenFiles": [
+    "fucking checklists/agni kai checklist.md",
+    "knowledge/what the hell are large language models.md",
+    "knowledge/knowledge checklist.md",
+    "javascript/will surely type something here.md",
+    "fucking checklists/programming checklist.md",
+    "fucking checklists/general checklist.md",
+    "fucking checklists/college checklist.md",
+    "excalidraw/agni kai.md",
+    "dumpyard/xeelog1.jpg",
+    "dumpyard/llm_1.png",
+    "daily logs/sever logs called life.md",
+    "chotu workstation/will surely type something here.md",
+    "c++ with data structures/will surely type something here.md",
+    "awesome things i have done in college/large language models presentation.md",
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
     "xeetshot/log 01.md",
     "xeetshot",
     "somethings i had to say/hmm large language models !.md",
     "somethings i had to say",
-    "dumpyard/xeelog1.jpg",
-    "awesome things i have done in college/large language models presentation.md",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
-    "a dumpyard/a place where i dump my gpu programming links.md",
     "seminars i have done in college/computer networks seminar.md",
     "my setup/the setup.md",
     "my setup/how did i setup my note sync through git hub.md",
-    "knowledge/what the hell are large language models.md",
-    "fucking checklists/college checklist.md",
-    "c++ with data structures/will surely type something here.md",
     "seminars i have done in college",
-    "fucking checklists/general checklist.md",
     "awesome things i have done in college"
   ]
 }

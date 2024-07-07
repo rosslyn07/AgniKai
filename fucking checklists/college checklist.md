@@ -4,7 +4,7 @@ sol [ 5th sem ]
 - [x] complete dbms  1 assignment 
 - [x] complete dbms journal 
 - [x] complete dbms observation book 
-- [ ] complete cn journal
+- [x] complete cn journal
 - [x] complete cn observation book
 - [x] complete atc 1 assignment 
 - [x] prepare a image viewer project for c# and a powerpoint for the same [ deadline 20th Feb ]
@@ -16,11 +16,20 @@ sol [ 5th sem ]
 - [x] complete atc 2 assignment 
 - [x] complete rm 2 assignment 
 - [x] complete dbms 3 assignment 
-- [ ] complete vtu online course before 3rd ia 
-- [ ] write cn 1st ia 
+- [x] complete vtu online course before 3rd ia 
+- [x] write cn 1st ia 
 - [x] complete cn lab ia on monday 
-- [ ] show dbms project, project report, project ppt and journal  on tuesday
+- [x] show dbms project, project report, project ppt and journal  on tuesday
 - [x] complete c# lab ia on wednesday
 - [x] prepare c# project and project ppt by friday 
-- [ ] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
-- [ ] prepare for atc seminar 
+- [x] prepare for ai seminar [ prepare seminar report of 10-12 pages and seminar ppt of 10 slides  ]
+- [x] prepare for atc seminar 
+
+sol [ 6th sem ]
+- [ ] complete cgfip 3rd assignment 
+- [ ] complete fsd journal
+- [ ] complete cgfip journal
+- [ ] prepare for cgfip seminar
+- [ ] complete ajp 2nd assignment 
+- [ ] complete cgfip project with ppt & report
+- [ ] complete mini project with ppt & report 
