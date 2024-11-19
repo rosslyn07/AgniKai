@@ -57,3 +57,4 @@
 ->Scrpy [https://github.com/Frontesque/scrcpy-plus]
 # Games I Wanna Try
 ->Enter The Adventure : Easter Eggs
+->Tiny Glade
