@@ -26,10 +26,10 @@ sol [ 5th sem ]
 - [x] prepare for atc seminar 
 
 sol [ 6th sem ]
-- [ ] complete cgfip 3rd assignment 
-- [ ] complete fsd journal
-- [ ] complete cgfip journal
-- [ ] prepare for cgfip seminar
-- [ ] complete ajp 2nd assignment 
-- [ ] complete cgfip project with ppt & report
-- [ ] complete mini project with ppt & report 
+- [x] complete cgfip 3rd assignment 
+- [x] complete fsd journal
+- [x] complete cgfip journal
+- [x] prepare for cgfip seminar
+- [x] complete ajp 2nd assignment 
+- [x] complete cgfip project with ppt & report
+- [x] complete mini project with ppt & report 

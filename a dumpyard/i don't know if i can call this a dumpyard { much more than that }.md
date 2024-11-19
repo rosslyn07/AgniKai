@@ -15,6 +15,9 @@
 ->Webstorm Ide
 ->Lm Studio 
 ->Syncthing
+->Plex
+->Zen Browser
+->Stremio [Use Stremio (app/interface) + torrentio (addon) + realdebrid account (streaming server) ]
 # Softwares To Try On Mac
 ->Pile Journal App
 ->Noteplan
@@ -28,6 +31,12 @@
 ->GPU-z 
 ->CPU-z
 ->Hw Monitor 
+# Apps To Try In Foreseeable Future
+->Hail
+->Incure
+->ScreenZen
+->Shelf
+->Beeper
 # Softwares That take It To Next Level 
 ->Chocolatey [https://community.chocolatey.org/]
 ->Wiz Tree
