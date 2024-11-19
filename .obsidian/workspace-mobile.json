@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xeetshot/log 01.md",
+                "file": "knowledge/knowledge checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "xeetshot/log 01.md",
+            "file": "knowledge/knowledge checklist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "xeetshot/log 01.md",
+            "file": "knowledge/knowledge checklist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "xeetshot/log 01.md"
+            "file": "knowledge/knowledge checklist.md"
           }
         }
       }
@@ -135,15 +135,16 @@
   },
   "active": "1376156eab166017",
   "lastOpenFiles": [
-    "dumpyard/xeelog1.jpg",
+    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
+    "a dumpyard/a place where i dump my gpu programming links.md",
     "xeetshot/log 01.md",
+    "dumpyard/xeelog1.jpg",
     "xeetshot",
     "dumpyard/llm_1.png",
     "fucking checklists/college checklist.md",
     "fucking checklists/agni kai checklist.md",
     "things i have done in college/large language models presentation.md",
     "things i have done in college",
-    "a dumpyard/i don't know if i can call this a dumpyard { much more than that }.md",
     "my setup/how did i setup my note sync through git hub.md",
     "c++ with data structures/will surely type something here.md",
     "chotu workstation/will surely type something here.md",
