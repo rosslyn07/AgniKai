@@ -1,4 +1,5 @@
 ### the universal constants
+<<<<<<< HEAD
 - the hackathon will be conducted on the dates 30th november and 1st december. 
 - the hackathon registration will start from 22th nov till 27th nov through the google forms.
 - the hackathon will be of 24hrs starting from 10am of 30th nov to 10am of 1st dec
@@ -17,6 +18,18 @@
 - the food will be provided 3 times throughout the hackathon [ lunch dinner and next day breakfast ] 
 - after the end of the hackathon feedback will be collected from the students
 - the participants are not meant to leave the college campus before the hackathon ends
+=======
+- the hackathon will be conducted on the dates 30th november and 1st december 
+- the hackathon will be of 24hrs starting from 10am of 9th nov to 10am of 1st dec
+- the hackathon will be split into 3 domains 
+     - web development 
+     - artificial intelligence and machine learning 
+     - open theme ( a mixture )
+- each domain will contain 6 problem statements from which the participants can choose from ( includes open theme )
+- the participants of the open theme can choose their own problem statements but it will be checked and approved by the moderators to maintain the integrity of the competition 
+- the hackathon will be checked 3 times in total throughout the whole 24hrs divided in 3 time slots
+- 
+>>>>>>> 74999254267f33b38b0c3a170e11ae9f9147f9a6
 ### <font color="#ffc000">the bare-bone structure of the hackathon</font>
 -  the organizing team arrives at the venue 7:30am
 - the pickup buses start from gadag and hulkoti at 8:00am at the respective bus stops and will exactly leave from the bus stops 8:30am and the participants will arrive at college at approx 9:00am
